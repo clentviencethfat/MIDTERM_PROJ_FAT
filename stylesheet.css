@@ -1,0 +1,122 @@
+
+/* Page Background and Main Text Color */
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    border: 5px solid lightskyblue;
+    padding: 15px;
+}
+
+/* Main Heading */
+
+h1 {
+    color: lightskyblue;
+    font-size: 32px;
+    text-align: center;
+    background-color: darkblue;
+    border: 3px solid deepskyblue;
+    padding: 15px;
+}
+
+/* Subheadings */
+
+h2 {
+    color: deepskyblue;
+    font-size: 24px;
+    border-bottom: 2px solid lightskyblue;
+    padding: 5px;
+}
+
+h3 {
+    color: deepskyblue;
+    font-size: 20px;
+}
+
+h4 {
+    color: deepskyblue;
+    font-size: 18px;
+}
+
+h5 {
+    color: lightskyblue;
+    font-size: 16px;
+}
+
+/* Navigation Links */
+
+.navigation {
+    background-color: darkblue;
+    border: 2px solid lightskyblue;
+    padding: 15px;
+    margin: 10px;
+}
+
+a {
+    color: lightskyblue;
+    background-color: darkblue;
+    font-size: 16px;
+    text-decoration: none;
+    border: 1px solid lightskyblue;
+    padding: 5px;
+}
+
+/* Link Hover */
+
+a:hover {
+    color: black;
+    background-color: lightskyblue;
+}
+
+/* Content Borders */
+
+.content {
+    background-color: #151525;
+    border: 3px solid deepskyblue;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* Images */
+
+img {
+    border: 4px solid lightskyblue;
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+}
+
+/* Paragraph Text */
+
+p {
+    color: deepskyblue;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Lists */
+
+ul, ol {
+    color: lightskyblue;
+    display: inline-block;
+    text-align: left;
+    border: 1px solid deepskyblue;
+    padding: 20px 40px;
+}
+
+li {
+    color: lightskyblue;
+    font-size: 16px;
+    margin: 5px;
+}
+
+/* Horizontal Line */
+
+hr {
+    border: 2px solid lightskyblue;
+    margin: 20px 0;
+}
